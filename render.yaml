@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: painel-lark-producao
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn --workers 1 --threads 4 --timeout 120 app:app
+    healthCheckPath: /health
+    envVars:
+      - key: PAINEL_KEY
+        generateValue: true
+      - key: DATA_DIR
+        value: /tmp/painel-lark

@@ -1,0 +1,26 @@
+{
+  "registros": [
+    {
+      "LINHA DE PRODUÇÃO": "LINHA 04",
+      "LOTE": "W7040",
+      "ORDEM DE PRODUÇÃO": "Z02006748",
+      "DESCRIÇÃO DO MODELO": "GWC12ATB-D6DNA2BB/O",
+      "SÉRIE DO PRODUTO": "G-CLASSIC INVERTER 2026 C",
+      "QTD": 3650,
+      "QTD. TOTAL PRODUZIDA": 756,
+      "FALTA PRODUZIR": 2894,
+      "STATUS DE PRODUÇÃO": "PRODUZINDO"
+    },
+    {
+      "LINHA DE PRODUÇÃO": "LINHA 04",
+      "LOTE": "W7041",
+      "ORDEM DE PRODUÇÃO": "Z02006749",
+      "DESCRIÇÃO DO MODELO": "MODELO TESTE 2",
+      "SÉRIE DO PRODUTO": "SERIE TESTE",
+      "QTD": 1000,
+      "QTD. TOTAL PRODUZIDA": 1000,
+      "FALTA PRODUZIR": 0,
+      "STATUS DE PRODUÇÃO": "PRODUZIDO"
+    }
+  ]
+}

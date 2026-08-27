@@ -1,0 +1,25 @@
+{
+  "planoMensal": 51480,
+  "linha": "LINHA 04",
+  "unidade": "CONDENSADORA",
+  "registros": [
+    {
+      "Data": "27/08/2026",
+      "Turno": "1º TURNO",
+      "Plano Diário": 1247,
+      "Produção Real": 1180,
+      "Faltas": 3,
+      "Efetivo": 73,
+      "DOWNTIME": "00:12"
+    },
+    {
+      "Data": "27/08/2026",
+      "Turno": "2º TURNO",
+      "Plano Diário": 1164,
+      "Produção Real": 640,
+      "Faltas": 1,
+      "Efetivo": 73,
+      "DOWNTIME": "00:45"
+    }
+  ]
+}
